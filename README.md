@@ -1,5 +1,5 @@
 # Recurrent-Neural-Network-RNN-
-Ce répertoire est dédié aux Réseaux de Neurones Récurrents (RNN). Actuellement, il contient des notebooks terminés, mais d'autres contenus seront ajoutés dans les prochains jours.
+Ce répertoire est dédié aux Réseaux de Neurones Récurrents (RNN). D'autres contenus seront ajoutés dans les prochains jours.
 
 **Contenus actuels** :
 Introduction aux RNNs
