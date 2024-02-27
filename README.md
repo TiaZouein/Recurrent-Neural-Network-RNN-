@@ -25,6 +25,7 @@ Ce répertoire est dédié aux Réseaux de Neurones Récurrents (RNN). D'autres 
 
 
 **Références et Sources** :
+
 Madhu Sanjeevi ( Mady ), "DeepNLP - Recurrent Neural Networks with Math", Jan 10, 2018
 
 Niklas Donges, "A Guide to Recurrent Neural Networks: Understanding RNN and LSTM Networks", Feb 28, 2023
